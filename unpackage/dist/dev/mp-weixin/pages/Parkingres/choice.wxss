@@ -1,0 +1,6 @@
+
+.posre{
+	position: relative;
+	top:-10rpx;
+}
+

@@ -1,0 +1,163 @@
+.cell.data-v-0f09e564 {
+  font-size: 32rpx;
+  color: #353535;
+  height: 76rpx;
+  width: 64rpx;
+  line-height: 76rpx;
+  text-align: center;
+  background-color: #fff;
+  margin-left: 10rpx;
+  margin-bottom: 20rpx;
+  -webkit-box-shadow: 1rpx 3rpx 2rpx 1rpx gray;
+          box-shadow: 1rpx 3rpx 2rpx 1rpx gray;
+  border: 1rpx solid #C8C7CC;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border-radius: 5rpx;
+  font-weight: 600;
+}
+.cell.data-v-0f09e564:active {
+  background-color: #d8d8d8;
+}
+.mask.data-v-0f09e564 {
+  position: absolute;
+  z-index: 50;
+  height: 5000px;
+  width: 750rpx;
+  overflow: hidden;
+  top: 0;
+  left: 0;
+  background-color: #000000;
+  opacity: 0.5;
+}
+.keyboardbox.data-v-0f09e564 {
+  background-color: #f0f0f0;
+  position: fixed;
+  z-index: 52;
+  left: 0;
+  bottom: 0rpx;
+  width: 100%;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  -webkit-transform: translateY(100%);
+          transform: translateY(100%);
+}
+.keyboardbox .keyboard.data-v-0f09e564 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+          flex-wrap: wrap;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+          justify-content: flex-start;
+}
+.keyboardbox .keyboard .keyboard-cell.data-v-0f09e564 {
+  font-size: 32rpx;
+  color: #353535;
+  height: 76rpx;
+  width: 64rpx;
+  line-height: 76rpx;
+  text-align: center;
+  background-color: #fff;
+  margin-left: 10rpx;
+  margin-bottom: 20rpx;
+  -webkit-box-shadow: 1rpx 3rpx 2rpx 1rpx gray;
+          box-shadow: 1rpx 3rpx 2rpx 1rpx gray;
+  border: 1rpx solid #C8C7CC;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border-radius: 5rpx;
+  font-weight: 600;
+}
+.keyboardbox .keyboard .keyboard-cell.data-v-0f09e564:active {
+  background-color: #d8d8d8;
+}
+.keyboardbox .keyboard .tools.data-v-0f09e564 {
+  width: 225rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  position: absolute;
+  bottom: 0;
+  right: 5rpx;
+}
+.keyboardbox .keyboard .tools .tools-c.data-v-0f09e564 {
+  font-size: 32rpx;
+  color: #353535;
+  height: 76rpx;
+  width: 64rpx;
+  line-height: 76rpx;
+  text-align: center;
+  background-color: #fff;
+  margin-left: 10rpx;
+  margin-bottom: 20rpx;
+  -webkit-box-shadow: 1rpx 3rpx 2rpx 1rpx gray;
+          box-shadow: 1rpx 3rpx 2rpx 1rpx gray;
+  border: 1rpx solid #C8C7CC;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border-radius: 5rpx;
+  font-weight: 600;
+  background-color: #d3d3d3;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  width: 100rpx;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.keyboardbox .keyboard .tools .tools-c.data-v-0f09e564:active {
+  background-color: #d8d8d8;
+}
+.keyboardbox .switch.data-v-0f09e564 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+          justify-content: flex-end;
+  padding-top: 20rpx;
+}
+.keyboardbox .switch .keyboard-cell.data-v-0f09e564 {
+  font-size: 32rpx;
+  color: #353535;
+  height: 76rpx;
+  width: 64rpx;
+  line-height: 76rpx;
+  text-align: center;
+  background-color: #fff;
+  margin-left: 10rpx;
+  margin-bottom: 20rpx;
+  -webkit-box-shadow: 1rpx 3rpx 2rpx 1rpx gray;
+          box-shadow: 1rpx 3rpx 2rpx 1rpx gray;
+  border: 1rpx solid #C8C7CC;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border-radius: 5rpx;
+  font-weight: 600;
+  width: 140rpx;
+  margin-right: 10rpx;
+  margin-left: 0rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.keyboardbox .switch .keyboard-cell.data-v-0f09e564:active {
+  background-color: #d8d8d8;
+}
+.keyboardbox .switch .keyboard-cell .active.data-v-0f09e564 {
+  color: #4CD964;
+}
+.top.data-v-0f09e564 {
+  -webkit-transform: translateY(0);
+          transform: translateY(0);
+}
+

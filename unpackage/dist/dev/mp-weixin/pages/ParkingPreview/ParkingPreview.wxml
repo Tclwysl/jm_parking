@@ -1,0 +1,1 @@
+<view><block wx:if="{{vmap}}"><map style="{{'width:100%;'+('height:'+(mapH+'px')+';')}}" latitude="{{latitude}}" longitude="{{longitude}}" markers="{{covers}}" data-event-opts="{{[['callouttap',[['callouttap',['$event']]]]]}}" bindcallouttap="__e"></map></block></view>

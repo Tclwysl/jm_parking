@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "反向寻车",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "carno-keyboard": "/components/carno-keyboard/carno-keyboard"
+  }
+}

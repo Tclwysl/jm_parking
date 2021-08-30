@@ -1,0 +1,10 @@
+
+.alink {
+            color: #0A8DE7;
+            text-decoration:underline;
+			float: right;
+}
+.alink:hover {
+            color: #f40;
+}
+

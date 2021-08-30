@@ -1,0 +1,38 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/reverse/index",
+    "pages/parkfee/index",
+    "pages/goreverse/index",
+    "pages/goparkfee/index",
+    "pages/user/index",
+    "pages/login/index",
+    "pages/carmanage/index",
+    "pages/AptRecord/index",
+    "pages/ParkRecord/index",
+    "pages/Illegalstop/index",
+    "pages/Parkingres/index",
+    "pages/Parkingres/choice",
+    "pages/register/index",
+    "pages/ParkingPreview/index",
+    "pages/ParkingPreview/ParkingPreview",
+    "pages/ParkingPreview/goParkingPre"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于小程序位置接口的效果展示"
+    }
+  },
+  "usingComponents": {
+    "dropdown": "/components/dt-dropdown/dt-dropdown",
+    "cu-custom": "/colorui/components/cu-custom"
+  },
+  "sitemapLocation": "sitemap.json"
+}

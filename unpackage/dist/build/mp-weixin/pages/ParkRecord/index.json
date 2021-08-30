@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "停车记录",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "dropdown-screen": "/components/dropdown-screen/dropdown-screen"
+  }
+}

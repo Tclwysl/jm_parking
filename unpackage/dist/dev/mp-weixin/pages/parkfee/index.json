@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "停车付费",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "carno-keyboard": "/components/carno-keyboard/carno-keyboard"
+  }
+}
